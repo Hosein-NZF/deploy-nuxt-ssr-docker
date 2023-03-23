@@ -9,4 +9,4 @@ docker compose up -d --build
 ## References
 
 For more information, please see this 
- <a href="https://manascode.com/how-to-deploy-nuxt-ssr-to-digital-ocean-using-docker-compose-and-nginx/" target="_blank">tutorail </a>
+ <a href="https://manascode.com/how-to-deploy-nuxt-ssr-to-digital-ocean-using-docker-compose-and-nginx/" target="_blank">tutorial </a>
